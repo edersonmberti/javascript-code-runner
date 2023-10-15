@@ -31,3 +31,13 @@ The code goes to JavaScript Output.
 
 ![Check output](images/3.png)
 
+## Contribute
+
+Contributions are always welcome!
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md) first.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
