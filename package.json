@@ -1,8 +1,17 @@
 {
   "name": "javascript-code-runner",
   "displayName": "JavaScript Code Runner",
-  "description": "Run a piece of JavaScript code just selecting and running, easy as possible. (Really usuful for when you're wrating a documentation and need to a code example and need to test this code to check the output.",
-  "version": "0.0.1",
+  "description": "Run a piece of JavaScript code just selecting and running, easy as possible. (Really useful for when you're writing a documentation and need to a code example and need to test this code to check the output.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edersonmberti/javascript-code-runner"
+  },
+  "homepage": "https://github.com/edersonmberti/javascript-code-runner#readme",
+  "bugs": {
+    "url": "https://github.com/edersonmberti/javascript-code-runner/issues"
+  },
+  "author": "Ederson Machado <edersonmberti@gmail.com> (https://www.linkedin.com/in/ederson-machado-b973a0125/)",
   "engines": {
     "vscode": "^1.83.0"
   },
